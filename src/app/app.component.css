@@ -1,0 +1,6 @@
+h2{
+    background-color: black;
+    padding: 10px 5px;
+    color: white;
+    transition:all 500ms ease-in-out;
+}
