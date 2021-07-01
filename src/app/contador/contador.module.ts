@@ -1,5 +1,5 @@
 import { NgModule } from "@angular/core";
-import { ContadorComponente } from './contador/contador.component';
+import { ContadorComponente } from "./contador/contador.component";
 
 @NgModule({
     declarations:[
